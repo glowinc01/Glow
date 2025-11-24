@@ -1,0 +1,26 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@import "slick-carousel/slick/slick.css";
+@import "slick-carousel/slick/slick-theme.css";
+
+
+.font-poppins {
+  font-family: "Poppins", sans-serif;
+  font-weight: 4\00; /* or 700 etc */
+}
+.font-inter {
+  font-family: "Inter", sans-serif;
+  font-weight: 400; /* or 700, 400, etc */
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+
+.carousel-item:nth-child(4) {
+  transform: scale(1.1);
+  transition: transform 0.5s ease;
+}
