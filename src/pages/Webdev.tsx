@@ -18,12 +18,12 @@ const Webdev: React.FC = () => {
           </p>
         </div>
       </div>
-      <div className="w-full flex py-20 flex-col items-center justify-center">
+   <div className="w-full flex py-20 flex-col items-center justify-center">
         <div className="flex justify-center flex-col items-start w-[90%] mb-10">
-          <h1 className="font-poppins text-black font-bold text-[30px] lg:text-[36px]">
+          <h1 className="font-poppins text-black font-bold text-[#9FA7AF] text-[36px]">
             Service Description
           </h1>
-          <p className="font-inter text-[12px] lg:text-[16px] text-[#9FA7AF] mt-5">
+          <p className="font-inter text-[16px] text-[#9FA7AF] mt-5">
             Web Development is the process of creating and building websites or
             web applications that are accessible via the internet. It <br />{" "}
             involves a range of tasks, including designing the user interface,
@@ -33,8 +33,8 @@ const Webdev: React.FC = () => {
             underlying technical infrastructure.
           </p>
         </div>
-        <div className="w-full h-[600px] mt-5 flex-col lg:flex items-center justify-between px-[5%]">
-          <div className="lg:w-[45%] w-full h-[500px] overflow-hidden rounded-lg flex items-center justify-center">
+        <div className="w-full h-[600px] mt-5 flex items-center justify-between px-[5%]">
+          <div className="w-[45%] h-[500px] overflow-hidden rounded-lg flex items-center justify-center">
             <img
               src={HeroImage}
               alt="Hero"
@@ -42,38 +42,38 @@ const Webdev: React.FC = () => {
             />
           </div>
 
-          <div className="flex flex-col gap-5 justify-center">
+          <div className="flex flex-col gap-7  justify-center">
             <div className="flex items-center gap-5 hover:text-blue-600 transition-colors duration-300">
               <IoCheckmarkCircle className="text-[#0A84FF] w-[25px] h-[24px]" />
-              <h1 className="text-[27px] text-[#1A1A1A] font-bold font-poppins">
+              <h1 className="text-[30px] text-[#1A1A1A] font-bold font-poppins">
                 UI/UX Design
               </h1>
             </div>
 
             <div className="flex items-center gap-5 hover:text-blue-600 transition-colors duration-300">
               <IoCheckmarkCircle className="text-[#0A84FF] w-[25px] h-[24px]" />
-              <h1 className="text-[27px] text-[#1A1A1A] font-bold font-poppins">
+              <h1 className="text-[30px] text-[#1A1A1A] font-bold font-poppins">
                 Front-end Development
               </h1>
             </div>
 
             <div className="flex items-center gap-5 hover:text-blue-600 transition-colors duration-300">
               <IoCheckmarkCircle className="text-[#0A84FF] w-[25px] h-[24px]" />
-              <h1 className="text-[27px] text-[#1A1A1A] font-bold font-poppins">
+              <h1 className="text-[30px] text-[#1A1A1A] font-bold font-poppins">
                 Back-end Development
               </h1>
             </div>
 
             <div className="flex items-center gap-5 hover:text-blue-600 transition-colors duration-300">
               <IoCheckmarkCircle className="text-[#0A84FF] w-[25px] h-[24px]" />
-              <h1 className="text-[27px] text-[#1A1A1A] font-bold font-poppins">
+              <h1 className="text-[30px] text-[#1A1A1A] font-bold font-poppins">
                 Responsive Design
               </h1>
             </div>
 
             <div className="flex items-center gap-5 hover:text-blue-600 transition-colors duration-300">
               <IoCheckmarkCircle className="text-[#0A84FF] w-[25px] h-[24px]" />
-              <h1 className="text-[27px] text-[#1A1A1A] font-bold font-poppins">
+              <h1 className="text-[30px] text-[#1A1A1A] font-bold font-poppins">
                 E-commerce Features
               </h1>
             </div>

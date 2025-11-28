@@ -17,7 +17,7 @@ const Card: React.FC<CardProps> = ({
 }) => {
   return (
     <div
-      className={`bg-white w-[414px] min-h-[350px] lg:h-[441px] rounded-[20px] flex justify-center items-center shadow-md p-5 sm:p-6`}
+      className={`bg-white w-[400px] min-h-[350px] lg:h-[441px] rounded-[20px] flex justify-center items-center shadow-md p-5 sm:p-6`}
       style={{ boxShadow: "0px 0px 15px #00000012" }}
     >
       <div className="flex flex-col items-start w-[8000000px] justify-center">

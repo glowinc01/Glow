@@ -42,38 +42,38 @@ const Mobiledev: React.FC = () => {
             />
           </div>
 
-          <div className="flex flex-col gap-5  justify-center">
+          <div className="flex flex-col gap-7  justify-center">
             <div className="flex items-center gap-5 hover:text-blue-600 transition-colors duration-300">
               <IoCheckmarkCircle className="text-[#0A84FF] w-[25px] h-[24px]" />
-              <h1 className="text-[27px] text-[#1A1A1A] font-bold font-poppins">
+              <h1 className="text-[30px] text-[#1A1A1A] font-bold font-poppins">
                 UI/UX Design
               </h1>
             </div>
 
             <div className="flex items-center gap-5 hover:text-blue-600 transition-colors duration-300">
               <IoCheckmarkCircle className="text-[#0A84FF] w-[25px] h-[24px]" />
-              <h1 className="text-[27px] text-[#1A1A1A] font-bold font-poppins">
+              <h1 className="text-[30px] text-[#1A1A1A] font-bold font-poppins">
                 Front-end Development
               </h1>
             </div>
 
             <div className="flex items-center gap-5 hover:text-blue-600 transition-colors duration-300">
               <IoCheckmarkCircle className="text-[#0A84FF] w-[25px] h-[24px]" />
-              <h1 className="text-[27px] text-[#1A1A1A] font-bold font-poppins">
+              <h1 className="text-[30px] text-[#1A1A1A] font-bold font-poppins">
                 Back-end Development
               </h1>
             </div>
 
             <div className="flex items-center gap-5 hover:text-blue-600 transition-colors duration-300">
               <IoCheckmarkCircle className="text-[#0A84FF] w-[25px] h-[24px]" />
-              <h1 className="text-[27px] text-[#1A1A1A] font-bold font-poppins">
+              <h1 className="text-[30px] text-[#1A1A1A] font-bold font-poppins">
                 Responsive Design
               </h1>
             </div>
 
             <div className="flex items-center gap-5 hover:text-blue-600 transition-colors duration-300">
               <IoCheckmarkCircle className="text-[#0A84FF] w-[25px] h-[24px]" />
-              <h1 className="text-[27px] text-[#1A1A1A] font-bold font-poppins">
+              <h1 className="text-[30px] text-[#1A1A1A] font-bold font-poppins">
                 E-commerce Features
               </h1>
             </div>

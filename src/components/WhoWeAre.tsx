@@ -119,7 +119,7 @@ const WhoWeAre: React.FC = () => {
             </p>
           </div>
 
-          <button className="flex items-center justify-center gap-2 border-none rounded-full bg-[#0A84FF] text-white font-poppins px-6 py-4 hover:bg-[#0066CC] transition-all">
+          <button className="flex items-center cursor-pointer justify-center gap-2 border-none rounded-full bg-[#0A84FF] text-white font-poppins px-6 py-4 hover:bg-[#0066CC] transition-all">
             <span>Get In Touch</span>
             <FaPhoneAlt />
           </button>

@@ -193,10 +193,10 @@ const About: React.FC = () => {
               className="w-full h-auto rounded-lg object-cover"
             />
             <p className="mt-3 text-[#1A1A1A] text-center font-medium text-lg sm:text-xl font-poppins">
-              Mumuni Abdulazeez
+              Egbon Gabu
             </p>
             <p className="mt-2 text-gray-400 text-center font-medium text-sm sm:text-base font-poppins">
-              Frontend Developer & Product Manager
+              Close Tester
             </p>
           </div>
           <div className="flex flex-col items-center">
@@ -206,10 +206,10 @@ const About: React.FC = () => {
               className="w-full h-auto rounded-lg object-cover"
             />
             <p className="mt-3 text-[#1A1A1A] text-center font-medium text-lg sm:text-xl font-poppins">
-              Mumuni Abdulazeez
+              David Chukwuchebem
             </p>
             <p className="mt-2 text-gray-400 text-center font-medium text-sm sm:text-base font-poppins">
-              Frontend Developer & Product Manager
+              Backend Developer
             </p>
           </div>
 

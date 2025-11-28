@@ -6,11 +6,11 @@ import { IoCubeOutline } from "react-icons/io5";
 const HeroWithForm: React.FC = () => {
   return (
     <>
-      <div className="hero bg-white min-h-screen flex items-center">
-        <div className="hero-content w-full items-start justify-between flex-col-reverse lg:flex-row-reverse gap-10 px-6 sm:px-10 lg:px-20 py-10">
+      <div className="hero min-h-screen flex justify-center items-center">
+        <div className="hero-content w-full items-center justify-between flex-col-reverse lg:flex-row-reverse gap-30 px-6 sm:px-10 lg:px-20 py-10">
 
           {/* LEFT SERVICES SECTION */}
-          <div className="w-full lg:w-1/2 flex flex-col gap-8">
+          <div className="w-full lg:w-1/2 flex flex-col gap-10">
             {/* Card 1 */}
             <div className="flex justify-between items-center border-b pb-6 border-[#D9D9D9]">
               <div className="flex items-center gap-4">
